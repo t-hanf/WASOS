@@ -1,6 +1,6 @@
 # Writing a Simple Operating System - from Scratch
 ## About
-This repo is a collection of code used for working through the book [Writing a Simple Operating System —from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by Nick Blundell. It contains the example programms (Figures) and my solutions for the questions.
+This repo is a collection of code used for working through the book [Writing a Simple Operating System —from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by Nick Blundell. It contains the example programs (Figures) and my solutions for the questions.
 
 ## Running the code
 To assemble the code run the command `nasm <filename> -f bin -o <output_name>.bin`. Then to execute the program run `qemu-system-i386 <output_name>.bin`.
