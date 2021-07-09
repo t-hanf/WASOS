@@ -14,6 +14,7 @@ To assemble the code run the command `nasm <filename> -f bin -o <output_name>.bi
 * [Addressing demonstration (Figure 3.5)](Chapter_3/finding_x.asm)
 * [Manipulating the stack (Figure 3.6)](Chapter_3/stack_usage.asm)
 * [Making the first function call](Chapter_3/calling_functions.asm)
+* [Manipulating the data register (Figure 3.7)](Chapter_3/segment_test.asm)
 
 #### Questions (Solutions)
 * [Question 3](Chapter_3/condition_test.asm)
